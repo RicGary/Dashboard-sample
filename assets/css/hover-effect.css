@@ -1,0 +1,17 @@
+.button-hover{
+    display: inline-block;
+    height: 3vh;
+    width: 9vh;
+    /* border-radius: 15px; */
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+a{
+    position: relative;
+    top: 10%;
+    text-decoration: none;
+}
+
+.button-hover:hover{
+    box-shadow: inset 100px 0 0 0 #54b3d6;
+}

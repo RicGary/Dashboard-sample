@@ -1,0 +1,10 @@
+#graph-with-slider{
+    height: 50vh;
+    width: 50vw;
+    position: relative;
+    left: 23.5%;
+}
+
+.main-svg{
+    border-radius: 10px !important;
+}

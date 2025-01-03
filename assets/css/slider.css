@@ -1,0 +1,14 @@
+#year-slider{
+    width: 50vw;
+    position: relative;
+    left: 22.2%;
+    margin-top: 2.5vh;
+}
+
+.rc-slider-track{
+    background-color: #0092d5;
+}
+
+.rc-slider-mark-text{
+    color: white;
+}
